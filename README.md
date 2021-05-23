@@ -14,7 +14,7 @@ Scaling the product owner role is often a bottleneck when organisations scale. O
 To make life easier, Scrum Facilitator Kai Stevens has written an extensive blog post on how to run the game. You can read it here: https://bit.ly/2On2OXK 
 ## Releases
 
-Use the **Release** to get the most stable and updated version of the Product Management @ Scale game. We'll promise to keep it updated ;-)
+Use the [**Latest Release**](https://github.com/ScrumFacilitators/Product-Management-at-Scale/releases/tag/v1.1) to get the most stable and updated version of the Product Management @ Scale game. We'll promise to keep it updated ;-)
 
 ## License
 
